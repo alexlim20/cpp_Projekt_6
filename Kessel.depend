@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1669299268 source:c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\main.cpp
+	"WinAdapt.h"
+	"Boiler.h"
+	"Burner.h"
+	"Pipeline.h"
+	"StorageComponentContainer.h"
+	<cstdio>
+	<iostream>
+	<string.h>
+
+1667511989 c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1667512397 source:c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1669298306 source:c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\boiler.cpp
+	"Boiler.h"
+	<iostream>
+	"WinAdapt.h"
+	<cstdio>
+	<sstream>
+
+1669297855 c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\boiler.h
+	<stdexcept>
+	<sstream>
+
+1669297586 source:c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\burner.cpp
+	"Burner.h"
+	"Boiler.h"
+	<iostream>
+	"WinAdapt.h"
+	<cstdio>
+	<string>
+
+1668553873 c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\burner.h
+	<string>
+	"Boiler.h"
+	"WinAdapt.h"
+
+1669297871 source:c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\pipeline.cpp
+	"Pipeline.h"
+	"WinAdapt.h"
+	"Boiler.h"
+
+1669237888 c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\pipeline.h
+	"Boiler.h"
+
+1669155920 c:\users\alexl\desktop\pin2\pin2_w2022\04_kessel\storagecomponentcontainer.h
+	<iostream>
+
